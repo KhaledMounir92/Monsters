@@ -12,6 +12,12 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+h1 {
+  font-family: 'Bigelow Rulex';
+  font-size: 72px;
+  color: #61dafb;
+  margin: auto;
+}
 
 .App-header {
   background-color: #282c34;
